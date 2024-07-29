@@ -85,4 +85,6 @@ function zero_controls(){
     
     dpad_dir = NO_DIRECTION;
 	movement = false;
+	
+	
 }
